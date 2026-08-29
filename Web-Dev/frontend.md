@@ -175,6 +175,7 @@
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
+| [vostride/agent-qa](https://github.com/vostride/agent-qa) | Natural-language regression testing for web, Android, and iOS with reviewable run evidence | ![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat-square) |
 | [jestjs/jest](https://github.com/jestjs/jest) | Delightful JavaScript testing — zero config, snapshot testing | ![Stars](https://img.shields.io/github/stars/jestjs/jest?style=flat-square) |
 | [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | Vite-native unit test framework — blazing fast, HMR aware | ![Stars](https://img.shields.io/github/stars/vitest-dev/vitest?style=flat-square) |
 | [cypress-io/cypress](https://github.com/cypress-io/cypress) | E2E testing for anything in the browser — time-travel debugging | ![Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square) |
